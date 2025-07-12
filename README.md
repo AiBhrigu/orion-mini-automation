@@ -1,5 +1,5 @@
 # ORION Mini Automation 🚀
-
+sed -i '1i ![Build Status](https://github.com/AiBhrigu/orion-mini-automation/actions/workflows/ci.yml/badge.svg)' README.md
 ![Build](https://img.shields.io/github/actions/workflow/status/AiBhrigu/orion-mini-automation/ci.yml?branch=main)
 ![License](https://img.shields.io/github/license/AiBhrigu/orion-mini-automation)
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
