@@ -1,0 +1,9 @@
+# Node
+node_modules/
+# DFX artifacts
+.dfx/
+# Env files
+.env
+# Build
+*.wasm
+*.mo.json
