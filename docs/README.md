@@ -1,3 +1,7 @@
+> **Authority status:** PRESERVED 2025 ORION MINI AUTOMATION / ICP EXPERIMENT — HISTORICAL IMPLEMENTATION DOCUMENTATION  
+> This document belongs to the preserved 2025 experiment and is **not** current ORION architecture or operating authority. Current repository context: [../README.md](../README.md).  
+> Current cross-project authority: [Φ Authority & Authorship Canon](https://github.com/AiBhrigu/AiBhrigu/blob/main/PHI_AUTHORITY_CANON.md).
+
 # ORION-mini-automation 🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
